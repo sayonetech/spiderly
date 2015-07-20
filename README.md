@@ -1,6 +1,6 @@
 # spiderly
 #Introduction
-<p>Web crawling is basically a phenomenon of getting needed information from the desirable sites.We use an automated script which is written in python for gathering data from sites.Scrapy is the application framework used in extracting datas in a structured manner.<br/>The above program includes crawling of specific datas from 'craiglist.org' and this could be expanded more as they go.
+<p>Web crawling is basically a phenomenon of getting needed information from the desirable sites.We use an automated script which is written in python for gathering data from sites.Scrapy is the application framework used in extracting datas in a structured manner using spiders classes. Spiders are the place where you define the custom behaviour for crawling and parsing pages for a particular site (or, in some cases, a group of sites).<br/>The above program includes crawling of specific datas from 'craiglist.org' and this could be expanded more as they go.
 </p>
 
 
