@@ -4,7 +4,7 @@ from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from lxml import html
 
-from test_project.items import CraigslistSampleItem
+from craiglist.items import CraigslistSampleItem
 from scrapy.http import Request
 
 
